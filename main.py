@@ -45,12 +45,12 @@ user_langs = {}
 texts = {
     "uk": {
         "choose_theme": "Тепер можеш витягувати карти!",
-        "buttons": ["🎴 Витягнути карту (Кохання)", "🎴 Витягнути карту (Майбутнє)"],
+        "buttons": ["🎴 Витягнути карту (Кохання)", "🎴 Витягнути карту (Майбутнє)", "🎴 Витягнути карту (Багатство)", "🎴 Витягнути карту (Дружба)"],
         "your_card": "Твоя карта"
     },
     "en": {
         "choose_theme": "Now you can draw cards!",
-        "buttons": ["🎴 Draw a card (Love)", "🎴 Draw a card (Future)"],
+        "buttons": ["🎴 Draw a card (Love)", "🎴 Draw a card (Future)", "🎴 Draw a card (Wealth)", "🎴 Draw a card (Friendship)"],
         "your_card": "Your card"
     }
 }
@@ -106,12 +106,6 @@ def choose_language(message):
     save_user(user_id, first_name, last_name, lang)
 
     markup_card = get_main_keyboard(lang)
-
-    # # кнопки для витягування карти
-    # markup_card = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    # btn_love = types.KeyboardButton(texts[lang]["buttons"][0])
-    # btn_future = types.KeyboardButton(texts[lang]["buttons"][1])
-    # markup_card.add(btn_love, btn_future)
     
     bot.send_message(message.chat.id, texts[lang]["choose_theme"], reply_markup=markup_card)
 
@@ -123,8 +117,12 @@ def draw_card(message):
     # визначаємо тему
     if message.text in [texts["uk"]["buttons"][0], texts["en"]["buttons"][0]]:
         theme = "love"
-    else:
+    elif message.text in [texts["uk"]["buttons"][1], texts["en"]["buttons"][1]]:
         theme = "future"
+    elif message.text in [texts["uk"]["buttons"][2], texts["en"]["buttons"][2]]:
+        theme = "wealth"
+    elif message.text in [texts["uk"]["buttons"][3], texts["en"]["buttons"][3]]:
+        theme = "friendship"
 
     # вибираємо випадкову карту
     card = random.sample(deck, 4)
@@ -183,7 +181,7 @@ def help_command(message):
             "▫️ /help – Показати це повідомлення\n"
             "▫️ /lang – Змінити мову бота\n\n"
             "🎴 *Як користуватись*: \n"
-            "Після вибору мови ти можеш витягувати карти на тему кохання 💕 або майбутнього 🔮."
+            "Після вибору мови ти можеш витягувати карти на тему кохання 💕, фінансів 💰, дружби 🤝 або майбутнього 🔮."
         )
     else:
         help_text = (
@@ -193,7 +191,7 @@ def help_command(message):
             "▫️ /help – Show this message\n"
             "▫️ /lang – Change bot language\n\n"
             "🎴 *How to use*: \n"
-            "After choosing a language, you can draw cards on the theme of love 💕 or future 🔮."
+            "After choosing a language, you can draw cards on the theme of love 💕, wealth 💰, friendship 🤝, or future 🔮."
         )
     bot.send_message(message.chat.id, help_text, parse_mode="Markdown")
 

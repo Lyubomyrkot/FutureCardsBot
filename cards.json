@@ -3,791 +3,1511 @@
     "love": {
       "uk": [
         "Невелика невпевненість у почуттях — можлива тиха симпатія, яка потребує ініціативи з твоєї сторони.",
-        "Стан легкого відсторонення у стосунках. Дозволь собі бути відкритим і говорити про те, що турбує."
+        "Стан легкого відсторонення у стосунках. Дозволь собі бути відвертішим."
       ],
       "en": [
-        "A little uncertainty in feelings — perhaps a quiet sympathy that needs your initiative.",
-        "A period of distance in relationships. Be open and talk about what bothers you."
+        "A slight uncertainty in feelings — a quiet sympathy may exist, but it needs your initiative.",
+        "A state of mild detachment in relationships. Allow yourself to be more open."
       ]
     },
     "future": {
       "uk": [
-        "Початок скромного, але важливого етапу: дрібні кроки сьогодні приведуть до великих змін завтра.",
-        "Найближчі дні принесуть тихі події, що поступово визначать напрямок — звертай увагу на деталі."
+        "Майбутнє обіцяє невеликі, але приємні зміни у звичному житті.",
+        "На горизонті з’явиться можливість, яка допоможе знайти упевненість."
       ],
       "en": [
-        "A modest but important stage begins: small steps today will lead to big changes tomorrow.",
-        "The coming days will bring quiet events that gradually set your direction — pay attention to details."
+        "The future promises small but pleasant changes in your routine life.",
+        "An opportunity will arise on the horizon that will help you gain confidence."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансові справи рухатимуться повільно, але стабільно.",
+        "Можлива невелика несподівана вигода від знайомих."
+      ],
+      "en": [
+        "Financial matters will progress slowly but steadily.",
+        "A small unexpected gain from acquaintances is possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі підтримають тебе у дрібних клопотах.",
+        "Може виникнути легке непорозуміння, яке швидко вирішиться."
+      ],
+      "en": [
+        "Friends will support you in small troubles.",
+        "A minor misunderstanding may arise, but it will resolve quickly."
       ]
     }
   },
   "7♥": {
     "love": {
       "uk": [
-        "Нова знайомість може перерости у щось більше, якщо не боятися проявляти почуття.",
-        "Сьогодні важливо слухати серце, але не забувати про розум — баланс принесе гармонію."
+        "Час романтичних мрій та ніжних почуттів.",
+        "Може з’явитися людина, яка пробудить у тобі емоції."
       ],
       "en": [
-        "A new acquaintance may grow into something more if you dare to show your feelings.",
-        "Today it is important to listen to your heart, but not forget your mind — balance brings harmony."
+        "A time of romantic dreams and tender feelings.",
+        "A person may appear who awakens emotions in you."
       ]
     },
     "future": {
       "uk": [
-        "Перед тобою можливість зробити вибір, що вплине на подальший розвиток подій.",
-        "Незабаром очікуються невеликі зміни — вони можуть стати початком важливого процесу."
+        "Очікуй подій, які принесуть натхнення.",
+        "Плани здійсняться поступово, вимагаючи терпіння."
       ],
       "en": [
-        "An opportunity to make a choice that will affect future developments lies ahead.",
-        "Soon small changes will occur — they may be the beginning of an important process."
+        "Expect events that will bring inspiration.",
+        "Plans will come true gradually, requiring patience."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Можливі нові джерела доходу, але не одразу.",
+        "Важливо уникати ризикованих витрат."
+      ],
+      "en": [
+        "New sources of income are possible, but not immediately.",
+        "It is important to avoid risky expenses."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі принесуть приємні новини.",
+        "Можливе спільне святкування або зустріч."
+      ],
+      "en": [
+        "Friends will bring good news.",
+        "A joint celebration or meeting is possible."
       ]
     }
   },
   "8♥": {
     "love": {
       "uk": [
-        "Глибокий емоційний зв’язок з близькою людиною стане ключем до взаєморозуміння.",
-        "Сьогодні варто проявити ніжність і увагу — це зміцнить ваші стосунки."
+        "Відносини можуть перейти на новий рівень.",
+        "Чекай на приємні сюрпризи від близької людини."
       ],
       "en": [
-        "A deep emotional connection with a loved one will be the key to mutual understanding.",
-        "Today, showing tenderness and attention will strengthen your relationship."
+        "Relationships may move to a new level.",
+        "Expect pleasant surprises from a loved one."
       ]
     },
     "future": {
       "uk": [
-        "Очікуй стабільність у справах і можливість завершити важливий проєкт.",
-        "Маленькі успіхи сьогодні створять фундамент для значних досягнень завтра."
+        "Майбутнє подарує подорож або нові враження.",
+        "З’являться шанси реалізувати давні бажання."
       ],
       "en": [
-        "Expect stability in affairs and an opportunity to complete an important project.",
-        "Small successes today will create the foundation for significant achievements tomorrow."
+        "The future will bring travel or new experiences.",
+        "Opportunities will arise to fulfill long-held desires."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансовий стан стабілізується.",
+        "Можливе підвищення зарплати або премія."
+      ],
+      "en": [
+        "Financial situation will stabilize.",
+        "A salary increase or bonus is possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі здивують приємною підтримкою.",
+        "В колі друзів з’явиться нова цікава людина."
+      ],
+      "en": [
+        "Friends will surprise you with pleasant support.",
+        "A new interesting person will appear in your circle of friends."
       ]
     }
   },
   "9♥": {
     "love": {
       "uk": [
-        "Період гармонії у стосунках — час для відкритих розмов та спільних планів.",
-        "Внутрішня впевненість допоможе подолати непорозуміння та зміцнити почуття."
+        "Твоя щирість приверне кохання.",
+        "Можливий початок романтичної історії."
       ],
       "en": [
-        "A period of harmony in relationships — time for open conversations and shared plans.",
-        "Inner confidence will help overcome misunderstandings and strengthen feelings."
+        "Your sincerity will attract love.",
+        "The beginning of a romantic story is possible."
       ]
     },
     "future": {
       "uk": [
-        "Незабаром настане сприятливий момент для нових починань.",
-        "Сьогоднішні зусилля принесуть помітні результати в найближчі дні."
+        "Майбутнє принесе гармонію у важливій сфері життя.",
+        "Твої мрії почнуть втілюватися в реальність."
       ],
       "en": [
-        "A favorable moment for new beginnings is coming soon.",
-        "Today's efforts will yield noticeable results in the coming days."
+        "The future will bring harmony in an important area of life.",
+        "Your dreams will begin to turn into reality."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "З’являться нові можливості для заробітку.",
+        "Фінансові справи потребуватимуть вмілого планування."
+      ],
+      "en": [
+        "New opportunities for earning will appear.",
+        "Financial matters will require skillful planning."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі стануть джерелом радості.",
+        "Можливий приємний сюрприз у дружньому колі."
+      ],
+      "en": [
+        "Friends will become a source of joy.",
+        "A pleasant surprise in your circle of friends is possible."
       ]
     }
   },
   "10♥": {
     "love": {
       "uk": [
-        "Сьогодні важливо слухати інтуїцію у питаннях серця — вона підкаже правильний шлях.",
-        "Період романтичних зустрічей та несподіваних приємних моментів."
+        "Твої почуття стануть взаємними.",
+        "Можливе зізнання або важлива розмова."
       ],
       "en": [
-        "Today it is important to listen to intuition in matters of the heart — it will guide you.",
-        "A period of romantic meetings and unexpected pleasant moments."
+        "Your feelings will be reciprocated.",
+        "A confession or important conversation is possible."
       ]
     },
     "future": {
       "uk": [
-        "Нові можливості можуть відкритися там, де ти їх найменше очікуєш.",
-        "Рішучі дії зараз принесуть користь у майбутньому."
+        "Чекай періоду щастя та гармонії.",
+        "Майбутнє відкриє двері для радості."
       ],
       "en": [
-        "New opportunities may arise where you least expect them.",
-        "Decisive actions now will bring benefits in the future."
+        "Expect a period of happiness and harmony.",
+        "The future will open doors to joy."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінанси принесуть стабільність.",
+        "Можливе надходження грошей із несподіваного джерела."
+      ],
+      "en": [
+        "Finances will bring stability.",
+        "Money may come from an unexpected source."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Дружба стане ще міцнішою.",
+        "Друзі підтримають у важливій справі."
+      ],
+      "en": [
+        "Friendship will become even stronger.",
+        "Friends will support you in an important matter."
       ]
     }
   },
   "J♥": {
     "love": {
       "uk": [
-        "Несподівана зустріч може розбудити давні почуття або подарувати нові емоції.",
-        "Сьогодні варто бути чесним у висловленні своїх емоцій — це зміцнить стосунки."
+        "Романтичний інтерес з боку молодої людини.",
+        "Флірт або нове знайомство прикрасять день."
       ],
       "en": [
-        "An unexpected meeting may awaken old feelings or bring new emotions.",
-        "Today, being honest in expressing your emotions will strengthen your relationship."
+        "Romantic interest from a young person.",
+        "Flirting or a new acquaintance will brighten your day."
       ]
     },
     "future": {
       "uk": [
-        "Події, що здаються незначними, можуть мати велике значення для твоїх планів.",
-        "Будь готовий до змін, вони принесуть цінний досвід."
+        "Очікуй несподіваних змін.",
+        "Майбутнє подарує нові враження."
       ],
       "en": [
-        "Events that seem minor may have great importance for your plans.",
-        "Be ready for changes — they will bring valuable experience."
+        "Expect unexpected changes.",
+        "The future will bring new experiences."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Можливий прибуток від невеликої справи.",
+        "Фінанси не будуть проблемою найближчим часом."
+      ],
+      "en": [
+        "Profit from a small venture is possible.",
+        "Finances will not be a problem in the near future."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі познайомлять з новими людьми.",
+        "Хтось із друзів порадує гарною новиною."
+      ],
+      "en": [
+        "Friends will introduce you to new people.",
+        "One of your friends will bring good news."
       ]
     }
   },
   "Q♥": {
     "love": {
       "uk": [
-        "Період емоційної зрілості та взаємоповаги у стосунках.",
-        "Сьогодні варто приділити увагу підтримці близької людини."
+        "Від щирої жінки отримаєш увагу та турботу.",
+        "Любов стане джерелом натхнення."
       ],
       "en": [
-        "A period of emotional maturity and mutual respect in relationships.",
-        "Today, it is worth paying attention to supporting a loved one."
+        "From a sincere woman you will receive care and attention.",
+        "Love will become a source of inspiration."
       ]
     },
     "future": {
       "uk": [
-        "Твій досвід допоможе приймати зважені рішення у нових справах.",
-        "Незабаром відкриються перспективи, якщо будеш діяти обачно."
+        "Майбутнє відкриє період спокою.",
+        "Очікуй гармонії та внутрішнього тепла."
       ],
       "en": [
-        "Your experience will help you make balanced decisions in new ventures.",
-        "Soon, opportunities will open up if you act prudently."
+        "The future will open a period of peace.",
+        "Expect harmony and inner warmth."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Гроші прийдуть через допомогу знайомих.",
+        "Можливі вдалі інвестиції."
+      ],
+      "en": [
+        "Money will come through acquaintances’ help.",
+        "Successful investments are possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Подруга стане опорою у складний час.",
+        "Дружні відносини зміцняться."
+      ],
+      "en": [
+        "A female friend will be a support in a difficult time.",
+        "Friendly relations will strengthen."
       ]
     }
   },
   "K♥": {
     "love": {
       "uk": [
-        "Впевненість і стабільність у стосунках приведуть до взаєморозуміння.",
-        "Час проявити лідерство та турботу про партнера — це зміцнить зв’язок."
+        "З’явиться впливовий прихильник.",
+        "Любовні почуття стануть серйознішими."
       ],
       "en": [
-        "Confidence and stability in relationships will lead to mutual understanding.",
-        "A time to show leadership and care for your partner — it will strengthen the bond."
+        "An influential admirer will appear.",
+        "Romantic feelings will become more serious."
       ]
     },
     "future": {
       "uk": [
-        "Очікуються значущі події, що визначать напрямок твого життя.",
-        "Рішучі кроки зараз принесуть довготривалий успіх."
+        "Очікуй розвитку нових планів.",
+        "Майбутнє подарує шанс проявити силу характеру."
       ],
       "en": [
-        "Significant events are expected that will shape the direction of your life.",
-        "Decisive steps now will bring long-term success."
+        "Expect the development of new plans.",
+        "The future will give you a chance to show strength of character."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Успішне вирішення фінансових питань.",
+        "Можливий великий прибуток завдяки наполегливості."
+      ],
+      "en": [
+        "Successful resolution of financial issues.",
+        "A large profit is possible thanks to persistence."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Старший друг порадить важливу річ.",
+        "Дружба зміцниться завдяки спільній справі."
+      ],
+      "en": [
+        "An older friend will give you important advice.",
+        "Friendship will strengthen thanks to a shared matter."
       ]
     }
   },
   "A♥": {
     "love": {
       "uk": [
-        "Великі почуття та сильна прихильність — день сприятливий для романтики.",
-        "Несподівані емоційні відкриття принесуть радість і гармонію."
+        "Сильні почуття і справжнє кохання.",
+        "Можливе зізнання у любові."
       ],
       "en": [
-        "Great feelings and strong attachment — the day is favorable for romance.",
-        "Unexpected emotional discoveries will bring joy and harmony."
+        "Strong feelings and true love.",
+        "A confession of love is possible."
       ]
     },
     "future": {
       "uk": [
-        "Нове починання обіцяє успіх і задоволення від досягнень.",
-        "Сьогодні важливо діяти рішуче, адже це відкриє двері до великих можливостей."
+        "Наближається період великих змін.",
+        "Майбутнє відкриє нові горизонти."
       ],
       "en": [
-        "A new beginning promises success and satisfaction from achievements.",
-        "Today it is important to act decisively, as this will open doors to great opportunities."
-      ]
-    }
-  },
-  "6♠": {
-    "love": {
-      "uk": [
-        "Можлива невелика напруга у стосунках, обережно стався до слів і дій сьогодні.",
-        "Відсторонення від партнера тимчасове — знайди час для чесної розмови."
-      ],
-      "en": [
-        "There may be minor tension in relationships; handle your words and actions carefully today.",
-        "A temporary distance from your partner — find time for an honest conversation."
+        "A period of great changes is approaching.",
+        "The future will open new horizons."
       ]
     },
-    "future": {
+    "wealth": {
       "uk": [
-        "Попереду важливий вибір, який потребує обережного аналізу ситуації.",
-        "Дрібні труднощі сьогодні підкажуть, на що звернути увагу у майбутньому."
+        "Успіх у великих фінансових справах.",
+        "Можливий вигідний контракт або угода."
       ],
       "en": [
-        "An important choice lies ahead that requires careful analysis of the situation.",
-        "Minor difficulties today will indicate what to pay attention to in the future."
-      ]
-    }
-  },
-  "7♠": {
-    "love": {
-      "uk": [
-        "Сьогодні можливі непорозуміння — спробуй слухати партнера більше, ніж говорити.",
-        "Складна ситуація у стосунках потребує терпіння і розуміння."
-      ],
-      "en": [
-        "Misunderstandings may arise today — try to listen more than speak to your partner.",
-        "A challenging situation in relationships requires patience and understanding."
+        "Success in major financial matters.",
+        "A profitable contract or deal is possible."
       ]
     },
-    "future": {
+    "friendship": {
       "uk": [
-        "Невеликі перешкоди попереду допоможуть тобі краще підготуватися до змін.",
-        "Сьогоднішні випробування стануть уроком для майбутніх рішень."
+        "Друзі стануть твоєю опорою.",
+        "Можливе святкування у великій компанії."
       ],
       "en": [
-        "Minor obstacles ahead will help you prepare better for changes.",
-        "Today's challenges will serve as lessons for future decisions."
-      ]
-    }
-  },
-  "8♠": {
-    "love": {
-      "uk": [
-        "Ситуація у стосунках може змінитися — не ігноруй сигнали серця та інтуїції.",
-        "Важливо уникати різких слів, щоб не погіршити взаєморозуміння."
-      ],
-      "en": [
-        "The situation in relationships may change — don't ignore the signals of your heart and intuition.",
-        "It is important to avoid harsh words to maintain understanding."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Очікуй необхідності приймати рішення, що вплине на твої плани.",
-        "Моменти невизначеності покажуть, де варто бути обачним."
-      ],
-      "en": [
-        "Expect to make decisions that will affect your plans.",
-        "Moments of uncertainty will indicate where caution is needed."
-      ]
-    }
-  },
-  "9♠": {
-    "love": {
-      "uk": [
-        "Період внутрішньої напруги — не варто робити поспішних висновків.",
-        "Сьогодні важливо контролювати емоції, щоб уникнути конфліктів."
-      ],
-      "en": [
-        "A period of internal tension — avoid making hasty conclusions.",
-        "Today it is important to control emotions to prevent conflicts."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Невеликі труднощі у справах стануть поштовхом до розвитку нових стратегій.",
-        "Зміни на горизонті вимагатимуть твоєї уваги і рішучості."
-      ],
-      "en": [
-        "Minor difficulties in affairs will prompt the development of new strategies.",
-        "Upcoming changes will require your attention and decisiveness."
-      ]
-    }
-  },
-  "10♠": {
-    "love": {
-      "uk": [
-        "Можлива необхідність зробити вибір між особистими бажаннями та обов’язками.",
-        "Сьогодні краще не починати серйозних суперечок, а шукати компроміси."
-      ],
-      "en": [
-        "You may need to choose between personal desires and responsibilities.",
-        "Today, it is better not to start serious arguments but to seek compromises."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Складні обставини підкажуть, де потрібно проявити обачність.",
-        "Сьогоднішні рішення матимуть наслідки на тривалий період."
-      ],
-      "en": [
-        "Challenging circumstances will show where caution is needed.",
-        "Decisions made today will have long-term consequences."
-      ]
-    }
-  },
-  "J♠": {
-    "love": {
-      "uk": [
-        "Неочікувана новина може вплинути на стосунки — тримай емоції під контролем.",
-        "Сьогодні важливо спостерігати та аналізувати, а не діяти імпульсивно."
-      ],
-      "en": [
-        "Unexpected news may affect relationships — keep your emotions under control.",
-        "Today it is important to observe and analyze rather than act impulsively."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Події покажуть слабкі місця у твоїх планах — виправ їх вчасно.",
-        "Виклики допоможуть зрозуміти, де потрібна додаткова підготовка."
-      ],
-      "en": [
-        "Events will reveal weak points in your plans — fix them in time.",
-        "Challenges will help you understand where extra preparation is needed."
-      ]
-    }
-  },
-  "Q♠": {
-    "love": {
-      "uk": [
-        "Період обережності та розважливості — не поспішай робити важливі кроки.",
-        "Сьогодні варто слухати серце, але діяти розумом."
-      ],
-      "en": [
-        "A period of caution and prudence — do not rush important steps.",
-        "Today, listen to your heart but act with your mind."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Складна ситуація вимагатиме твоєї уваги та зважених рішень.",
-        "Будь готовий до несподіваних поворотів, вони принесуть досвід."
-      ],
-      "en": [
-        "A challenging situation will require your attention and balanced decisions.",
-        "Be prepared for unexpected turns — they will bring experience."
-      ]
-    }
-  },
-  "K♠": {
-    "love": {
-      "uk": [
-        "Впевненість і рішучість допоможуть уникнути непорозумінь у стосунках.",
-        "Сьогодні важливо проявити терпіння та підтримку для близьких."
-      ],
-      "en": [
-        "Confidence and decisiveness will help avoid misunderstandings in relationships.",
-        "Today, it is important to show patience and support for loved ones."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Важливі кроки сьогодні визначать подальший напрямок життя.",
-        "Сприймай труднощі як можливість зміцнити свої позиції."
-      ],
-      "en": [
-        "Important steps today will determine the future direction of life.",
-        "View challenges as an opportunity to strengthen your position."
-      ]
-    }
-  },
-  "A♠": {
-    "love": {
-      "uk": [
-        "Висока ймовірність емоційного перевантаження — не поспішай робити висновки.",
-        "Сьогодні краще зберігати баланс між почуттями та логікою."
-      ],
-      "en": [
-        "A high chance of emotional overload — avoid making hasty conclusions.",
-        "Today, it is better to maintain a balance between feelings and logic."
-      ]
-    },
-    "future": {
-      "uk": [
-        "Нове починання вимагатиме рішучості і обачності одночасно.",
-        "Сьогоднішні рішення матимуть далекосяжні наслідки, обмірковуй все ретельно."
-      ],
-      "en": [
-        "A new beginning will require both decisiveness and caution.",
-        "Today's decisions will have far-reaching consequences — think everything through carefully."
+        "Friends will become your support.",
+        "A celebration in a large company is possible."
       ]
     }
   },
   "6♦": {
     "love": {
       "uk": [
-        "Маленькі кроки у відносинах принесуть поступове зміцнення довіри.",
-        "Сьогодні варто приділити увагу деталям — вони визначають комфорт у спілкуванні."
+        "Почуття ще не визначені, але є легкий інтерес.",
+        "Твоє серце прагне ясності у стосунках."
       ],
       "en": [
-        "Small steps in relationships will gradually strengthen trust.",
-        "Today, pay attention to details — they determine comfort in communication."
+        "Feelings are not yet defined, but there is slight interest.",
+        "Your heart seeks clarity in relationships."
       ]
     },
     "future": {
       "uk": [
-        "Перед тобою можливість стабільного розвитку у фінансових чи практичних справах.",
-        "Невеликі зусилля сьогодні принесуть результати у найближчі дні."
+        "Майбутнє обіцяє дрібні приємні зміни.",
+        "З’являться нові маленькі можливості."
       ],
       "en": [
-        "An opportunity for steady development in financial or practical matters lies ahead.",
-        "Small efforts today will yield results in the coming days."
+        "The future promises small pleasant changes.",
+        "New small opportunities will arise."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінанси залишаться стабільними без значних змін.",
+        "Можливі невеликі додаткові витрати."
+      ],
+      "en": [
+        "Finances will remain stable without major changes.",
+        "Small additional expenses are possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі проявлять щиру турботу.",
+        "Можливе нове знайомство у колі друзів."
+      ],
+      "en": [
+        "Friends will show sincere care.",
+        "A new acquaintance in your circle of friends is possible."
       ]
     }
   },
   "7♦": {
     "love": {
       "uk": [
-        "Несподівані обставини можуть вимагати гнучкості у відносинах.",
-        "Сьогодні важливо враховувати бажання партнера при прийнятті рішень."
+        "Романтичні мрії набувають реальних форм.",
+        "Може з’явитися новий прихильник."
       ],
       "en": [
-        "Unexpected circumstances may require flexibility in relationships.",
-        "Today, it is important to consider your partner's desires when making decisions."
+        "Romantic dreams are taking real shape.",
+        "A new admirer may appear."
       ]
     },
     "future": {
       "uk": [
-        "Перед тобою важливий вибір у справах — обміркуй усі можливості.",
-        "Маленькі успіхи сьогодні створять основу для більшого прогресу."
+        "На тебе чекає приємна несподіванка.",
+        "Майбутнє відкриє невеликі радощі."
       ],
       "en": [
-        "An important choice in matters lies ahead — consider all possibilities.",
-        "Small successes today will lay the foundation for greater progress."
+        "A pleasant surprise awaits you.",
+        "The future will bring small joys."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Можлива невелика вигода.",
+        "Фінанси покращаться завдяки уважності."
+      ],
+      "en": [
+        "A small profit is possible.",
+        "Finances will improve thanks to attentiveness."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі принесуть гарні новини.",
+        "Можливе спільне святкування."
+      ],
+      "en": [
+        "Friends will bring good news.",
+        "A joint celebration is possible."
       ]
     }
   },
   "8♦": {
     "love": {
       "uk": [
-        "Гармонія та взаєморозуміння з партнером допоможуть подолати труднощі.",
-        "Сьогодні варто бути уважним до емоцій близьких — це зміцнить зв’язок."
+        "Стосунки стануть більш відкритими.",
+        "Можливий приємний сюрприз від близької людини."
       ],
       "en": [
-        "Harmony and mutual understanding with your partner will help overcome difficulties.",
-        "Today, be attentive to the emotions of loved ones — it will strengthen the bond."
+        "Relationships will become more open.",
+        "A pleasant surprise from a loved one is possible."
       ]
     },
     "future": {
       "uk": [
-        "Очікуй стабільність та поступовий прогрес у фінансових чи ділових справах.",
-        "Дрібні успіхи сьогодні підготують ґрунт для значних досягнень завтра."
+        "Очікуй на нові можливості для розвитку.",
+        "Майбутнє подарує подорож чи цікаву зустріч."
       ],
       "en": [
-        "Expect stability and gradual progress in financial or business matters.",
-        "Small successes today will prepare the ground for significant achievements tomorrow."
+        "Expect new opportunities for growth.",
+        "The future will bring travel or an interesting meeting."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Можливе покращення матеріального стану.",
+        "Чекай невеликої фінансової винагороди."
+      ],
+      "en": [
+        "An improvement in financial status is possible.",
+        "Expect a small financial reward."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі допоможуть вирішити питання.",
+        "З’явиться нова довірена особа у дружньому колі."
+      ],
+      "en": [
+        "Friends will help solve a problem.",
+        "A new trusted person will appear in your friendly circle."
       ]
     }
   },
   "9♦": {
     "love": {
       "uk": [
-        "Період роздумів у стосунках — обміркуй, що дійсно важливо для тебе.",
-        "Сьогодні краще слухати серце, але приймати рішення свідомо."
+        "Твої почуття будуть помічені й оцінені.",
+        "Можливе зміцнення стосунків."
       ],
       "en": [
-        "A period of reflection in relationships — consider what truly matters to you.",
-        "Today, listen to your heart but make decisions consciously."
+        "Your feelings will be noticed and appreciated.",
+        "A strengthening of relationships is possible."
       ]
     },
     "future": {
       "uk": [
-        "Маленькі фінансові чи практичні успіхи сьогодні підготують шлях до більших цілей.",
-        "Будь уважним до деталей — вони можуть вплинути на довгострокові результати."
+        "Майбутнє принесе гармонію.",
+        "Очікуй здійснення давнього бажання."
       ],
       "en": [
-        "Small financial or practical successes today will pave the way for bigger goals.",
-        "Pay attention to details — they can affect long-term outcomes."
+        "The future will bring harmony.",
+        "Expect the fulfillment of a long-held desire."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Надійдуть гроші з несподіваного джерела.",
+        "Фінансовий стан покращиться."
+      ],
+      "en": [
+        "Money will come from an unexpected source.",
+        "The financial situation will improve."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі принесуть відчуття тепла.",
+        "Очікуй гарного часу у компанії."
+      ],
+      "en": [
+        "Friends will bring a feeling of warmth.",
+        "Expect a good time in company."
       ]
     }
   },
   "10♦": {
     "love": {
       "uk": [
-        "Можливі невеликі конфлікти через матеріальні чи практичні питання — шукай компроміс.",
-        "Сьогодні варто проявити турботу та відповідальність у відносинах."
+        "Любовні стосунки вийдуть на новий рівень.",
+        "Можливе довгоочікуване визнання."
       ],
       "en": [
-        "Minor conflicts may arise over material or practical matters — seek compromise.",
-        "Today, show care and responsibility in relationships."
+        "Love relationships will reach a new level.",
+        "A long-awaited recognition is possible."
       ]
     },
     "future": {
       "uk": [
-        "Вдалий момент для важливих угод чи планування майбутніх фінансових кроків.",
-        "Дії сьогодні визначать твою стабільність у найближчому майбутньому."
+        "Наближається період щастя.",
+        "Майбутнє подарує відчуття задоволення."
       ],
       "en": [
-        "A favorable time for important deals or planning future financial steps.",
-        "Today's actions will determine your stability in the near future."
+        "A period of happiness is approaching.",
+        "The future will bring a sense of satisfaction."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Матеріальне становище покращиться.",
+        "Можливі значні фінансові надходження."
+      ],
+      "en": [
+        "The material situation will improve.",
+        "Significant financial inflows are possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі підтримають у важливій справі.",
+        "Очікуй гармонії у дружніх відносинах."
+      ],
+      "en": [
+        "Friends will support you in an important matter.",
+        "Expect harmony in friendly relations."
       ]
     }
   },
   "J♦": {
     "love": {
       "uk": [
-        "Неочікувана ситуація може внести корективи у плани з партнером.",
-        "Сьогодні важливо бути відкритим та чесним у спілкуванні."
+        "Нове романтичне знайомство прикрасить день.",
+        "Флірт стане початком цікавих стосунків."
       ],
       "en": [
-        "An unexpected situation may alter plans with your partner.",
-        "Today, it is important to be open and honest in communication."
+        "A new romantic acquaintance will brighten your day.",
+        "Flirting will become the start of an interesting relationship."
       ]
     },
     "future": {
       "uk": [
-        "Можливі дрібні випробування у справах — вони принесуть цінний досвід.",
-        "Будь готовий до адаптації та змін у планах."
+        "Очікуй несподіваних новин.",
+        "Майбутнє подарує нові враження."
       ],
       "en": [
-        "Minor trials in matters may occur — they will bring valuable experience.",
-        "Be ready to adapt and adjust plans."
+        "Expect unexpected news.",
+        "The future will bring new impressions."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Можливий невеликий прибуток.",
+        "Фінансові клопоти швидко вирішаться."
+      ],
+      "en": [
+        "A small profit is possible.",
+        "Financial troubles will resolve quickly."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі поділяться чимось важливим.",
+        "Знайомі принесуть цікаву пропозицію."
+      ],
+      "en": [
+        "Friends will share something important.",
+        "Acquaintances will bring an interesting offer."
       ]
     }
   },
   "Q♦": {
     "love": {
       "uk": [
-        "Період стабільності та гармонії у відносинах — добре для обговорення майбутнього.",
-        "Сьогодні важливо підтримувати баланс між власними бажаннями та потребами партнера."
+        "Жінка зі щирими почуттями проявить турботу.",
+        "Любов принесе гармонію."
       ],
       "en": [
-        "A period of stability and harmony in relationships — good for discussing the future.",
-        "Today, it is important to maintain a balance between your own desires and your partner's needs."
+        "A woman with sincere feelings will show care.",
+        "Love will bring harmony."
       ]
     },
     "future": {
       "uk": [
-        "Досвід і розважливість допоможуть приймати правильні рішення у фінансових справах.",
-        "Сьогоднішні кроки можуть визначити перспективи на довгий час."
+        "Майбутнє відкриє нові приємні можливості.",
+        "Очікуй періоду спокою та стабільності."
       ],
       "en": [
-        "Experience and prudence will help make the right decisions in financial matters.",
-        "Today's steps may determine long-term prospects."
+        "The future will open new pleasant opportunities.",
+        "Expect a period of peace and stability."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансовий успіх завдяки пораді жінки.",
+        "Можливі вдалі інвестиції."
+      ],
+      "en": [
+        "Financial success thanks to a woman’s advice.",
+        "Successful investments are possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Подруга стане надійною опорою.",
+        "Дружба зміцниться завдяки щирості."
+      ],
+      "en": [
+        "A female friend will be a reliable support.",
+        "Friendship will strengthen thanks to sincerity."
       ]
     }
   },
   "K♦": {
     "love": {
       "uk": [
-        "Впевненість та відповідальність у стосунках зміцнять довіру.",
-        "Сьогодні важливо проявити турботу та практичну підтримку."
+        "З’явиться серйозний прихильник.",
+        "Любовні стосунки стануть міцнішими."
       ],
       "en": [
-        "Confidence and responsibility in relationships will strengthen trust.",
-        "Today, show care and practical support."
+        "A serious admirer will appear.",
+        "Love relationships will become stronger."
       ]
     },
     "future": {
       "uk": [
-        "Важливі дії сьогодні визначать стабільність та успіх у справах.",
-        "Рішучі кроки принесуть відчутний результат у найближчому майбутньому."
+        "Майбутнє подарує шанс проявити себе.",
+        "Очікуй нових можливостей у важливій сфері."
       ],
       "en": [
-        "Important actions today will determine stability and success in matters.",
-        "Decisive steps will bring tangible results in the near future."
+        "The future will give you a chance to prove yourself.",
+        "Expect new opportunities in an important area."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінанси принесуть задоволення.",
+        "Можливий великий прибуток завдяки рішучості."
+      ],
+      "en": [
+        "Finances will bring satisfaction.",
+        "A large profit is possible thanks to determination."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Старший друг дасть мудру пораду.",
+        "Дружба стане ще надійнішою."
+      ],
+      "en": [
+        "An older friend will give wise advice.",
+        "Friendship will become even more reliable."
       ]
     }
   },
   "A♦": {
     "love": {
       "uk": [
-        "Потужний емоційний зв’язок та підтримка — день сприятливий для романтики та відкриття почуттів.",
-        "Сьогодні варто прислухатися до серця, але не забувати про практичні аспекти."
+        "Сильні почуття принесуть справжнє кохання.",
+        "Можливий важливий крок у стосунках."
       ],
       "en": [
-        "A strong emotional bond and support — a favorable day for romance and opening feelings.",
-        "Today, listen to your heart but don't forget practical aspects."
+        "Strong feelings will bring true love.",
+        "An important step in the relationship is possible."
       ]
     },
     "future": {
       "uk": [
-        "Нові можливості відкриваються у фінансових та практичних справах — діяй обачно, але рішуче.",
-        "Сьогоднішні рішення можуть визначити твоє матеріальне благополуччя у найближчому майбутньому."
+        "Насувається період великих змін.",
+        "Майбутнє відкриє нові горизонти."
       ],
       "en": [
-        "New opportunities are opening in financial and practical matters — act carefully but decisively.",
-        "Today's decisions may determine your material well-being in the near future."
+        "A period of great changes is approaching.",
+        "The future will open new horizons."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансовий успіх у великій справі.",
+        "Можливе підписання вигідної угоди."
+      ],
+      "en": [
+        "Financial success in a major matter.",
+        "The signing of a profitable deal is possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі стануть твоєю підтримкою.",
+        "Очікуй святкування у великій компанії."
+      ],
+      "en": [
+        "Friends will become your support.",
+        "Expect a celebration in a large company."
+      ]
+    }
+  },
+  "6♠": {
+    "love": {
+      "uk": [
+        "Можливе несподіване знайомство, яке змусить серце битися швидше.",
+        "Стосунки можуть розвиватися повільно, але стабільно."
+      ],
+      "en": [
+        "An unexpected encounter may make your heart race.",
+        "Relationships may develop slowly but steadily."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Попереду дрібні випробування, які допоможуть стати сильнішим.",
+        "Очікуй нових шансів, які відкриють шлях до розвитку."
+      ],
+      "en": [
+        "Minor trials lie ahead to make you stronger.",
+        "Expect new opportunities that will open the path to growth."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Маленькі фінансові вигоди скоро з’являться.",
+        "Будь уважним до витрат — вони можуть непомітно зростати."
+      ],
+      "en": [
+        "Small financial gains are coming soon.",
+        "Be mindful of expenses — they can quietly add up."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Старий друг може несподівано підтримати тебе.",
+        "Невелике непорозуміння з другом швидко вирішиться."
+      ],
+      "en": [
+        "An old friend may unexpectedly support you.",
+        "A minor misunderstanding with a friend will quickly resolve."
+      ]
+    }
+  },
+  "7♠": {
+    "love": {
+      "uk": [
+        "Відносини можуть зажадати більше терпіння і уваги.",
+        "Можлива нова романтична зустріч, яка здивує."
+      ],
+      "en": [
+        "Relationships may require more patience and attention.",
+        "A new romantic meeting may surprise you."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Очікуй несподівані повороти подій, вони приведуть до росту.",
+        "Сміливі рішення принесуть користь у майбутньому."
+      ],
+      "en": [
+        "Expect unexpected twists that will lead to growth.",
+        "Bold decisions will benefit your future."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Малий прибуток принесе радість, але не розслабляйся.",
+        "Важливі фінансові кроки зараз потребують уваги."
+      ],
+      "en": [
+        "Small profit will bring joy, but don’t relax.",
+        "Important financial steps require attention now."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг може відкрити нову можливість для співпраці.",
+        "Взаєморозуміння з другом зміцнить дружбу."
+      ],
+      "en": [
+        "A friend may open a new opportunity for cooperation.",
+        "Mutual understanding with a friend will strengthen your bond."
+      ]
+    }
+  },
+  "8♠": {
+    "love": {
+      "uk": [
+        "Незабаром романтичні почуття стануть глибшими.",
+        "Будь відкритий до нових проявів ніжності."
+      ],
+      "en": [
+        "Romantic feelings will soon deepen.",
+        "Be open to new expressions of affection."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Очікуй стабільний розвиток подій, плануй кроки обдумано.",
+        "Невеликі зміни принесуть великі результати."
+      ],
+      "en": [
+        "Expect steady development of events; plan carefully.",
+        "Small changes will bring significant results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Зараз сприятливий час для невеликих інвестицій.",
+        "Фінансовий баланс потребує уваги та обережності."
+      ],
+      "en": [
+        "Now is a favorable time for small investments.",
+        "Financial balance requires attention and caution."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі допоможуть вирішити складну ситуацію.",
+        "Спільні справи зміцнять дружні зв’язки."
+      ],
+      "en": [
+        "Friends will help solve a difficult situation.",
+        "Joint activities will strengthen friendships."
+      ]
+    }
+  },
+  "9♠": {
+    "love": {
+      "uk": [
+        "Можливі несподівані повороти в романтичних справах.",
+        "Довіра стане ключем до гармонії в стосунках."
+      ],
+      "en": [
+        "Unexpected twists may occur in romantic matters.",
+        "Trust will be key to harmony in relationships."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Прийдуть нові перспективи, не пропусти шанс.",
+        "Рішення, прийняті зараз, вплинуть на далеке майбутнє."
+      ],
+      "en": [
+        "New prospects will come; don’t miss the chance.",
+        "Decisions made now will affect the distant future."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Очікуй дрібні фінансові радості, але не витрачай зайвого.",
+        "Важливі фінансові питання вимагатимуть уваги."
+      ],
+      "en": [
+        "Expect minor financial joys, but don’t overspend.",
+        "Important financial matters will require attention."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Справжні друзі проявлять турботу саме тоді, коли це потрібно.",
+        "Дружба зміцниться через спільні випробування."
+      ],
+      "en": [
+        "True friends will show care when it is most needed.",
+        "Friendship will strengthen through shared challenges."
+      ]
+    }
+  },
+  "10♠": {
+    "love": {
+      "uk": [
+        "Відносини стануть більш стабільними і глибокими.",
+        "Очікуй важливих змін у любовному житті."
+      ],
+      "en": [
+        "Relationships will become more stable and deep.",
+        "Expect important changes in your love life."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Сприятливий період для планування великих справ.",
+        "Твої зусилля зараз принесуть відчутний результат."
+      ],
+      "en": [
+        "A favorable period for planning major endeavors.",
+        "Your efforts now will bring tangible results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансовий успіх залежить від твого ретельного підходу.",
+        "Можливий прибуток від попередніх вкладень."
+      ],
+      "en": [
+        "Financial success depends on careful approach.",
+        "Profit from previous investments is possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі стануть опорою у важкі моменти.",
+        "Спільні плани принесуть радість та зміцнять зв’язки."
+      ],
+      "en": [
+        "Friends will be a support in difficult times.",
+        "Shared plans will bring joy and strengthen bonds."
+      ]
+    }
+  },
+  "J♠": {
+    "love": {
+      "uk": [
+        "Несподівані знайомства можуть перерости в щось більше.",
+        "Будь уважним до знаків уваги від оточуючих."
+      ],
+      "en": [
+        "Unexpected encounters may grow into something more.",
+        "Pay attention to signs of affection from others."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Передбачаються нові можливості, які змінять твоє життя.",
+        "Будь готовий швидко реагувати на зміни."
+      ],
+      "en": [
+        "New opportunities are predicted that will change your life.",
+        "Be ready to respond quickly to changes."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансові кроки потребують обдуманості та розрахунку.",
+        "Невеликі прибутки можуть відкрити нові шляхи."
+      ],
+      "en": [
+        "Financial steps require thought and calculation.",
+        "Small gains may open new paths."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг може відкрити несподівані перспективи.",
+        "Спільні дії зміцнять вашу довіру один до одного."
+      ],
+      "en": [
+        "A friend may reveal unexpected prospects.",
+        "Joint actions will strengthen mutual trust."
+      ]
+    }
+  },
+  "Q♠": {
+    "love": {
+      "uk": [
+        "Любов стане джерелом гармонії та натхнення.",
+        "Звертай увагу на дрібниці, вони важливі для відносин."
+      ],
+      "en": [
+        "Love will become a source of harmony and inspiration.",
+        "Pay attention to small details; they are important in relationships."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Очікуй стабільний і впевнений розвиток подій.",
+        "Твої зусилля будуть оцінені й принесуть користь."
+      ],
+      "en": [
+        "Expect a stable and confident development of events.",
+        "Your efforts will be appreciated and beneficial."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Сприятливий час для серйозних фінансових рішень.",
+        "Фінансова стабільність залежить від твоєї дисципліни."
+      ],
+      "en": [
+        "A favorable time for major financial decisions.",
+        "Financial stability depends on your discipline."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Дружба буде надійним джерелом підтримки.",
+        "Спільні плани принесуть гармонію у стосунки."
+      ],
+      "en": [
+        "Friendship will be a reliable source of support.",
+        "Shared plans will bring harmony to relationships."
+      ]
+    }
+  },
+  "K♠": {
+    "love": {
+      "uk": [
+        "Відносини стануть глибшими та більш значущими.",
+        "Розуміння і турбота допоможуть уникнути конфліктів."
+      ],
+      "en": [
+        "Relationships will become deeper and more meaningful.",
+        "Understanding and care will help avoid conflicts."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Очікуй важливі рішення, які вплинуть на твоє життя.",
+        "Планування зараз принесе великі плоди у майбутньому."
+      ],
+      "en": [
+        "Expect important decisions that will affect your life.",
+        "Planning now will yield significant results in the future."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансові успіхи будуть результатом ретельного планування.",
+        "Можливі нові джерела доходу, будь уважним."
+      ],
+      "en": [
+        "Financial success will result from careful planning.",
+        "New sources of income may appear; stay alert."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг стане важливою опорою у складні часи.",
+        "Спільні дії зміцнять вашу дружбу."
+      ],
+      "en": [
+        "A friend will be an important support in difficult times.",
+        "Joint actions will strengthen your friendship."
+      ]
+    }
+  },
+  "A♠": {
+    "love": {
+      "uk": [
+        "Велика любов або важливі зміни в серці незабаром з’являться.",
+        "Будь відкритим до почуттів і нових стосунків."
+      ],
+      "en": [
+        "Great love or important changes in the heart will appear soon.",
+        "Be open to feelings and new relationships."
+      ]
+    },
+    "future": {
+      "uk": [
+        "Очікуй нові початки та великі можливості.",
+        "Смілкі кроки приведуть до значущих результатів."
+      ],
+      "en": [
+        "Expect new beginnings and great opportunities.",
+        "Bold steps will lead to significant results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Великі фінансові можливості можуть з’явитися незабаром.",
+        "Будь готовий використати шанс для значного доходу."
+      ],
+      "en": [
+        "Great financial opportunities may appear soon.",
+        "Be ready to seize the chance for substantial gain."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Дружба принесе щире задоволення та підтримку.",
+        "Вірні друзі допоможуть у важливих справах."
+      ],
+      "en": [
+        "Friendship will bring genuine joy and support.",
+        "Loyal friends will assist in important matters."
       ]
     }
   },
   "6♣": {
     "love": {
       "uk": [
-        "Спільна діяльність з партнером зміцнить стосунки та взаєморозуміння.",
-        "Сьогодні важливо проявляти ініціативу у вирішенні побутових або спільних питань."
+        "Маленька симпатія може з’явитися несподівано.",
+        "Стосунки зараз повільні, але перспективні."
       ],
       "en": [
-        "Shared activities with your partner will strengthen relationships and mutual understanding.",
-        "Today, it is important to take initiative in resolving household or joint matters."
+        "A small crush may appear unexpectedly.",
+        "Relationships are slow now but promising."
       ]
     },
     "future": {
       "uk": [
-        "Початок нового етапу у справах, де невеликі кроки матимуть велике значення.",
-        "Сьогоднішні дії зададуть темп майбутнім подіям."
+        "Маленькі кроки приведуть до майбутніх змін.",
+        "Використовуй час для накопичення знань."
       ],
       "en": [
-        "The beginning of a new stage in matters where small steps will have great importance.",
-        "Today's actions will set the pace for future events."
+        "Small steps will lead to future changes.",
+        "Use time to accumulate knowledge."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Невеликий прибуток принесе задоволення.",
+        "Слідкуй за витратами, щоб не втратити більше."
+      ],
+      "en": [
+        "Small profit will bring satisfaction.",
+        "Watch spending to avoid bigger losses."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Старий друг може допомогти у складній ситуації.",
+        "Малий конфлікт швидко вирішиться."
+      ],
+      "en": [
+        "An old friend may help in a difficult situation.",
+        "A minor conflict will quickly resolve."
       ]
     }
   },
   "7♣": {
     "love": {
       "uk": [
-        "Можливі невеликі непорозуміння, які легко вирішити через відкритий діалог.",
-        "Сьогоднішні дії у стосунках вплинуть на подальшу стабільність."
+        "Відносини потребують терпіння та уваги.",
+        "Можливе нове знайомство, яке здивує."
       ],
       "en": [
-        "Minor misunderstandings may occur, easily resolved through open dialogue.",
-        "Today's actions in relationships will affect future stability."
+        "Relationships require patience and attention.",
+        "A new acquaintance may surprise you."
       ]
     },
     "future": {
       "uk": [
-        "Неочікувані можливості відкриються, якщо не боятися пробувати нове.",
-        "Сьогодні варто діяти рішуче, щоб отримати вигоду у майбутньому."
+        "Очікуй невеликі зміни, що приведуть до росту.",
+        "Рішення зараз вплинуть на подальший розвиток."
       ],
       "en": [
-        "Unexpected opportunities will open if you dare to try something new.",
-        "Today, act decisively to gain advantage in the future."
+        "Expect small changes leading to growth.",
+        "Decisions now will influence future development."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Малий прибуток принесе радість.",
+        "Будь уважним у витратах."
+      ],
+      "en": [
+        "Small profit will bring joy.",
+        "Be careful with spending."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг відкриє нову можливість для спільних дій.",
+        "Взаєморозуміння зміцнить дружбу."
+      ],
+      "en": [
+        "A friend will open new opportunities.",
+        "Mutual understanding will strengthen friendship."
       ]
     }
   },
   "8♣": {
     "love": {
       "uk": [
-        "Спільні справи допоможуть зміцнити емоційний зв’язок з партнером.",
-        "Сьогодні варто приділяти увагу практичним аспектам взаємодії."
+        "Романтичні почуття можуть стати глибшими.",
+        "Будь відкритим до проявів ніжності."
       ],
       "en": [
-        "Joint activities will help strengthen the emotional bond with your partner.",
-        "Today, pay attention to practical aspects of interaction."
+        "Romantic feelings may deepen.",
+        "Be open to expressions of affection."
       ]
     },
     "future": {
       "uk": [
-        "Стабільність і організованість допоможуть досягти бажаних результатів.",
-        "Маленькі успіхи сьогодні створять основу для великих досягнень завтра."
+        "Стабільний розвиток подій очікується найближчим часом.",
+        "Невеликі зміни принесуть великі результати."
       ],
       "en": [
-        "Stability and organization will help achieve desired results.",
-        "Small successes today will lay the foundation for major achievements tomorrow."
+        "Stable development is expected soon.",
+        "Small changes will yield significant results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Сприятливий час для фінансових кроків.",
+        "Фінансовий баланс потребує уваги."
+      ],
+      "en": [
+        "Favorable time for financial steps.",
+        "Financial balance requires attention."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі допоможуть вирішити складну ситуацію.",
+        "Спільні справи зміцнять дружбу."
+      ],
+      "en": [
+        "Friends will help solve a difficult situation.",
+        "Joint activities will strengthen friendship."
       ]
     }
   },
   "9♣": {
     "love": {
       "uk": [
-        "Період активності у стосунках — спільні дії зміцнюють довіру.",
-        "Сьогодні важливо враховувати думку партнера та обговорювати рішення."
+        "Несподівані події можуть з’явитися в любові.",
+        "Довіра стане основою гармонії."
       ],
       "en": [
-        "A period of activity in relationships — joint actions strengthen trust.",
-        "Today, it is important to consider your partner's opinion and discuss decisions."
+        "Unexpected events may appear in love.",
+        "Trust will be the foundation of harmony."
       ]
     },
     "future": {
       "uk": [
-        "Очікуй нових завдань, що потребуватимуть твоєї енергії та організованості.",
-        "Сьогоднішні зусилля допоможуть рухатись до великих цілей."
+        "Нові перспективи відкриються перед тобою.",
+        "Прийняті зараз рішення матимуть довгостроковий ефект."
       ],
       "en": [
-        "Expect new tasks that will require your energy and organization.",
-        "Today's efforts will help you move toward major goals."
+        "New prospects will open before you.",
+        "Decisions now will have long-term effects."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Невеликий прибуток можливий найближчим часом.",
+        "Фінансові питання потребують уваги."
+      ],
+      "en": [
+        "Small profit is possible soon.",
+        "Financial matters require attention."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Справжні друзі підтримають у потрібний момент.",
+        "Дружба зміцниться через спільні труднощі."
+      ],
+      "en": [
+        "True friends will support you when needed.",
+        "Friendship will strengthen through shared challenges."
       ]
     }
   },
   "10♣": {
     "love": {
       "uk": [
-        "Невеликі труднощі у стосунках можна подолати через активну участь і увагу.",
-        "Сьогодні важливо проявляти ініціативу у взаємодії з близькими."
+        "Відносини стануть стабільнішими та глибшими.",
+        "Очікуй важливих змін у любові."
       ],
       "en": [
-        "Minor difficulties in relationships can be overcome through active participation and attention.",
-        "Today, it is important to take initiative in interacting with loved ones."
+        "Relationships will become more stable and deep.",
+        "Expect important changes in love."
       ]
     },
     "future": {
       "uk": [
-        "Вдалий день для планування та реалізації важливих проєктів.",
-        "Дії сьогодні визначать швидкість досягнення майбутніх цілей."
+        "Сприятливий час для планування великих справ.",
+        "Зусилля зараз принесуть відчутний результат."
       ],
       "en": [
-        "A favorable day for planning and executing important projects.",
-        "Today's actions will determine the pace of achieving future goals."
+        "Favorable period for planning major tasks.",
+        "Efforts now will bring tangible results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансовий успіх залежить від обачності.",
+        "Можливий прибуток від минулих вкладень."
+      ],
+      "en": [
+        "Financial success depends on prudence.",
+        "Profit from previous investments is possible."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друзі стануть опорою у складні моменти.",
+        "Спільні плани принесуть радість."
+      ],
+      "en": [
+        "Friends will be support in difficult times.",
+        "Joint plans will bring joy."
       ]
     }
   },
   "J♣": {
     "love": {
       "uk": [
-        "Неочікувана новина може змінити твоє ставлення у стосунках.",
-        "Сьогодні важливо слухати і розуміти партнера, а не діяти імпульсивно."
+        "Несподівані знайомства можуть перерости в щось більше.",
+        "Звертай увагу на прояви уваги від інших."
       ],
       "en": [
-        "Unexpected news may change your perspective in relationships.",
-        "Today, it is important to listen and understand your partner rather than act impulsively."
+        "Unexpected encounters may grow into something more.",
+        "Pay attention to attention from others."
       ]
     },
     "future": {
       "uk": [
-        "Маленькі труднощі допоможуть зрозуміти, де потрібно проявити більше організації.",
-        "Сьогоднішні випробування стануть уроком для майбутніх кроків."
+        "Нові можливості можуть змінити твоє життя.",
+        "Будь готовий швидко реагувати на зміни."
       ],
       "en": [
-        "Minor difficulties will help you understand where more organization is needed.",
-        "Today's trials will serve as lessons for future steps."
+        "New opportunities may change your life.",
+        "Be ready to react quickly to changes."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансові кроки потребують обдуманості.",
+        "Невеликі прибутки відкриють нові шляхи."
+      ],
+      "en": [
+        "Financial steps require thoughtfulness.",
+        "Small gains will open new paths."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг відкриє несподівані перспективи.",
+        "Спільні дії зміцнять довіру."
+      ],
+      "en": [
+        "A friend will reveal unexpected prospects.",
+        "Joint actions will strengthen trust."
       ]
     }
   },
   "Q♣": {
     "love": {
       "uk": [
-        "Період контролю та відповідальності у стосунках.",
-        "Сьогодні важливо діяти з розважливістю і підтримувати партнера."
+        "Любов стане джерелом гармонії.",
+        "Дрібниці відіграють важливу роль у стосунках."
       ],
       "en": [
-        "A period of control and responsibility in relationships.",
-        "Today, act prudently and support your partner."
+        "Love will be a source of harmony.",
+        "Small details play an important role in relationships."
       ]
     },
     "future": {
       "uk": [
-        "Розумні рішення сьогодні забезпечать стабільність у справах.",
-        "Сьогоднішня активність дасть відчутний результат у майбутньому."
+        "Очікуй стабільний розвиток подій.",
+        "Зусилля принесуть користь."
       ],
       "en": [
-        "Wise decisions today will ensure stability in matters.",
-        "Today's activity will yield tangible results in the future."
+        "Expect stable development of events.",
+        "Efforts will bring benefit."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Сприятливий час для фінансових рішень.",
+        "Стабільність залежить від дисципліни."
+      ],
+      "en": [
+        "Favorable time for financial decisions.",
+        "Stability depends on discipline."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Дружба буде надійною опорою.",
+        "Спільні плани принесуть гармонію."
+      ],
+      "en": [
+        "Friendship will be a reliable support.",
+        "Shared plans will bring harmony."
       ]
     }
   },
   "K♣": {
     "love": {
       "uk": [
-        "Впевненість і рішучість зміцнять відносини та довіру.",
-        "Сьогодні варто проявити ініціативу та турботу про близьких."
+        "Відносини стануть глибшими.",
+        "Розуміння і турбота допоможуть уникнути конфліктів."
       ],
       "en": [
-        "Confidence and decisiveness will strengthen relationships and trust.",
-        "Today, take initiative and show care for your loved ones."
+        "Relationships will become deeper.",
+        "Understanding and care will help avoid conflicts."
       ]
     },
     "future": {
       "uk": [
-        "Важливі рішення сьогодні визначать подальший розвиток справ.",
-        "Рішучі дії принесуть відчутний прогрес у роботі та проєктах."
+        "Очікуй важливі рішення, що вплинуть на життя.",
+        "Планування зараз принесе великі плоди."
       ],
       "en": [
-        "Important decisions today will determine future development of matters.",
-        "Decisive actions will bring tangible progress in work and projects."
+        "Expect important decisions affecting life.",
+        "Planning now will yield significant results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Фінансові успіхи залежать від планування.",
+        "Можливі нові джерела доходу."
+      ],
+      "en": [
+        "Financial success depends on planning.",
+        "New sources of income may appear."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Друг стане важливою опорою.",
+        "Спільні дії зміцнять дружбу."
+      ],
+      "en": [
+        "A friend will be an important support.",
+        "Joint actions will strengthen friendship."
       ]
     }
   },
   "A♣": {
     "love": {
       "uk": [
-        "Сильний емоційний зв’язок і підтримка — день сприятливий для серйозних стосунків.",
-        "Сьогодні варто діяти рішуче, проявляючи турботу і увагу."
+        "Велика любов або зміни у серці незабаром з’являться.",
+        "Будь відкритим до почуттів і нових стосунків."
       ],
       "en": [
-        "A strong emotional bond and support — a favorable day for serious relationships.",
-        "Today, act decisively, showing care and attention."
+        "Great love or changes in the heart will appear soon.",
+        "Be open to feelings and new relationships."
       ]
     },
     "future": {
       "uk": [
-        "Нові можливості у справах потребують активності та впевненості.",
-        "Сьогоднішні кроки визначать швидкість і результат майбутніх досягнень."
+        "Очікуй нові початки та великі можливості.",
+        "Смілкі кроки приведуть до значущих результатів."
       ],
       "en": [
-        "New opportunities in matters require activity and confidence.",
-        "Today's steps will determine the pace and outcome of future achievements."
+        "Expect new beginnings and great opportunities.",
+        "Bold steps will lead to significant results."
+      ]
+    },
+    "wealth": {
+      "uk": [
+        "Великі фінансові можливості можуть з’явитися незабаром.",
+        "Будь готовий скористатися шансом для доходу."
+      ],
+      "en": [
+        "Great financial opportunities may appear soon.",
+        "Be ready to seize the chance for gain."
+      ]
+    },
+    "friendship": {
+      "uk": [
+        "Дружба принесе задоволення та підтримку.",
+        "Вірні друзі допоможуть у важливих справах."
+      ],
+      "en": [
+        "Friendship will bring joy and support.",
+        "Loyal friends will help in important matters."
       ]
     }
   }
